@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Albert",
+        "lastName": "Avery",
+        "email": "ajaavery@gmail.com",
+        "phone": "(559) 999-9999",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Elon",
+        "lastName": "Musk",
+        "email": "elonmusk@tesla.com",
+        "phone": "(559) 123-4567",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Bill",
+        "lastName": "Gates",
+        "email": "bill@microsoft.com",
+        "phone": "(559) 555-5555",
+        "editing": false
+    }
+]
