@@ -10,6 +10,12 @@ interface IContact {
 }
 export class Contact {
 
+    public id?: number;
+    public firstName?: string;
+    public lastName?: string;
+    public email?: string;
+    public phone?: string;
+    public editing?: boolean;
 
     constructor(contact: IContact) {
         contact.editing = this.setState(contact);
